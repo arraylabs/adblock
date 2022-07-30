@@ -1,10 +1,4 @@
-172.30.1.31##a[href^="#/xoa/update"]
-172.30.1.31##a[href^="#/about"]
-172.30.1.31##a[href^="#/hub/templates"]
-172.30.1.31##a[href^="#/xosan"]
 startpage.com###gcsa-top
 startpage.com##.sidebar-results
-xen.cksh.us##a[href^="#/xoa/update"]
-xen.cksh.us##a[href^="#/about"]
-xen.cksh.us##a[href^="#/hub/templates"]
-xen.cksh.us##a[href^="#/xosan"]
+cad.onshape.com##.sidebar-subscription-info
+cad.onshape.com##.os-billing-banner
