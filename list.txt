@@ -2,4 +2,4 @@ startpage.com###gcsa-top
 startpage.com##.sidebar-results
 cad.onshape.com##.sidebar-subscription-info
 cad.onshape.com##.os-billing-banner
-www.thingiverse.com##.AdCard*
+www.thingiverse.com##..SearchResult__adBanner*
