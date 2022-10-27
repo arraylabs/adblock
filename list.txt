@@ -5,3 +5,4 @@ cad.onshape.com##.os-billing-banner
 www.thingiverse.com##div.AdCard__card--2Kzyq.AdCard__fullWidth--18w6X.SearchResult__adBanner--Eu7kz
 www.thingiverse.com##.AdCard__card--2Kzyq.AdCard__fullWidth--18w6X.ThingPage__ad--2eta_
 www.thingiverse.com##div.AdCard__card--2Kzyq.AdCard__fullWidth--18w6X.ThingsMoreSection__ad--3ezsd
+www.thingiverse.com##.AdCard__leaderboard--2Yt9x.AdCard__fullWidth--18w6X
