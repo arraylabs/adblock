@@ -2,4 +2,4 @@ startpage.com###gcsa-top
 startpage.com##.sidebar-results
 cad.onshape.com##.sidebar-subscription-info
 cad.onshape.com##.os-billing-banner
-#?#:-abp-has(.AdCard__card)
+#?#:-abp-contains(AdCard__card)
