@@ -3,3 +3,4 @@ startpage.com##.sidebar-results
 cad.onshape.com##.sidebar-subscription-info
 cad.onshape.com##.os-billing-banner
 www.thingiverse.com##div.AdCard__card--2Kzyq.AdCard__fullWidth--18w6X.SearchResult__adBanner--Eu7kz
+www.thingiverse.com##.AdCard__card--2Kzyq.AdCard__fullWidth--18w6X.ThingPage__ad--2eta_
