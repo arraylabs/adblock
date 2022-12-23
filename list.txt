@@ -2,7 +2,7 @@ startpage.com###gcsa-top
 startpage.com##.sidebar-results
 startpage.com##.blog-menu
 startpage.com###feedback-button-container
-startpage.com##.house_ads
+startpage.com##.house-ads
 cad.onshape.com##.sidebar-subscription-info
 cad.onshape.com##.os-billing-banner
 www.thingiverse.com##div.AdCard__card--2Kzyq.AdCard__fullWidth--18w6X.SearchResult__adBanner--Eu7kz
