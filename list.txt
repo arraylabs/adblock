@@ -14,3 +14,4 @@ www.thingiverse.com##.AdCard__card--2Kzyq.AdCard__fullWidth--18w6X.ThingPage__ad
 www.thingiverse.com##div.AdCard__card--2Kzyq.AdCard__fullWidth--18w6X.ThingsMoreSection__ad--3ezsd
 www.thingiverse.com##.AdCard__leaderboard--2Yt9x.AdCard__fullWidth--18w6X
 walmart.com##+js(acis, document.documentElement.lang)
+aliexpress.us##.image-poplayer-modal
